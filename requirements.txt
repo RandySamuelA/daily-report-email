@@ -1,0 +1,4 @@
+pandas
+smtplib
+pyodbc
+mysql-connector-python
